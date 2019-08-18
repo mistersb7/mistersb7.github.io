@@ -1,0 +1,49 @@
+#main { 
+    background: url("https://cff2.earth.com/uploads/2016/10/03154308/tornado-green-field-stock.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+#maxtemp { 
+    background: url("https://grist.files.wordpress.com/2016/01/desert-sunset-hot.jpg?w=1024&h=576&crop=1") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }  
+#humid { 
+    background: url("https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555181927/shape/mentalfloss/501465-istock-509467131.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+#cloud { 
+    background: url("https://hoodline.imgix.net/uploads/story/image/460867/istock__..featured_image_1..cloudy_2.jpg.jpg?auto=format") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+#wind { 
+    background: url("https://healygroup.com/wp-content/uploads/2018/11/windy-weather.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+#data { 
+    background: url("https://media.wired.com/photos/5ca648a330f00e47fd82ae77/master/pass/Culture_Matrix_Code_corridor.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+#compare { 
+    background: url("https://live.staticflickr.com/4758/39713131824_59bf79a35d_b.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
